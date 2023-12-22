@@ -1,0 +1,5 @@
+F:\TrabalhoF\Estudos\C#\Teste artigo Alura sobre C#\bin\Release\net8.0\publish\teste artigo alura sobre c#.exe
+F:\TrabalhoF\Estudos\C#\Teste artigo Alura sobre C#\bin\Release\net8.0\publish\teste artigo alura sobre c#.dll
+F:\TrabalhoF\Estudos\C#\Teste artigo Alura sobre C#\bin\Release\net8.0\publish\teste artigo alura sobre c#.deps.json
+F:\TrabalhoF\Estudos\C#\Teste artigo Alura sobre C#\bin\Release\net8.0\publish\teste artigo alura sobre c#.runtimeconfig.json
+F:\TrabalhoF\Estudos\C#\Teste artigo Alura sobre C#\bin\Release\net8.0\publish\teste artigo alura sobre c#.pdb
